@@ -10,7 +10,7 @@ This test project contains the UI automation for the Tendable Application.
 - Make sure you have Java 11 installed on your machine.
 - Make sure you have installed an Integrated Development Environment (IDE) such as Intellij, Eclipse.
 - Make sure you have a browser such as Chrome browser.
-- Internet connection to download the dependencies from pox.xml.
+- Internet connection to download the dependencies from pom.xml.
 
 
 ### Running the Test
