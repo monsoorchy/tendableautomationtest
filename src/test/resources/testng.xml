@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="TendableSuite">
+    <parameter name="browser" value="chrome" />
+    <test name="TendableSuite">
+        <classes>
+            <class name="tendable.AccessibilityOfTopLevelMenusTest"/>
+            <class name="tendable.RequestDemoButtonVerificationTest"/>
+            <class name="tendable.MarketingFormTest"/>
+        </classes>
+    </test>
+</suite>
